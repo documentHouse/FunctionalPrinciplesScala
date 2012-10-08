@@ -3,6 +3,4 @@
 example/project
 example/target
 /target
-*.jar
-*.sbt
 .cache
