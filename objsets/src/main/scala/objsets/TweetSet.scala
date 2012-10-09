@@ -147,6 +147,6 @@ object GoogleVsApple {
 
 object Main extends App {
   // Some help printing the results:
-  // println("RANKED:")
-  // GoogleVsApple.trending foreach println
+  println("RANKED:")
+  GoogleVsApple.trending foreach println
 }
